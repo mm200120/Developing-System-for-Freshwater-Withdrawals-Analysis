@@ -1,4 +1,4 @@
-# 🌍 **AI-Powered Water Crisis Prediction System**
+#  **AI-Powered Water Crisis Prediction System**
 MAATLA OOKEDITSE MOSIMANYANE
 
 ## **Project Overview**
